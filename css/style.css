@@ -38,9 +38,9 @@ body{
 
 [class *= "inputs-head"]{
   font-family: "Righteous", sans-serif;
-  font-weight: 400;
+  font-weight: 800;
   font-style: normal;
-  font-size: 25px;
+  font-size: 21px;
   background-image: linear-gradient(to right, #759404 , #f2d308);
   color: transparent;
   background-clip: text;
